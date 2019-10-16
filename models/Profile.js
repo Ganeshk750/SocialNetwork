@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-
 const ProfileSchema = new mongoose.Schema({
     //Here we are create profile with the reference of user
    user:{
