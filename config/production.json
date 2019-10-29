@@ -1,0 +1,7 @@
+{
+    "mongoURI": 'mongodb+srv://myFirst:ganesh750@cluster0-kgi4t.mongodb.net/socialdb?retryWrites=true&w=majority',
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "9536db0224692b036948",
+    "githubSecret": "bd708b7c9578009ed973c550c01db60b8824c10c"
+    
+}
